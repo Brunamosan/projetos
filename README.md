@@ -1,4 +1,6 @@
 # Projetos
+DICAS PARA UTILIZAR A PLATAFORMA ABAIXO: 
+
 Seja bem-vindo!
 Deixo aqui meus projetos já executados.
 
